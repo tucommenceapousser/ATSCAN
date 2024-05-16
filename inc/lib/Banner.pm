@@ -25,7 +25,7 @@ my @OTHERS  = Exploits::OTHERS();
 ## BENNER
 sub banner {
   my @ESLOGAN=("-oO Alisam Technology Oo-", "https:\/\/github.com\/AlisamTechnology", "https:\/\/www.fb.com/Alisam.Technology",
-             "https:\/\/www.youtube.com\/c\/AlisamTechnology", "-oO Coded by Ali Mehdioui Oo-");
+             "https:\/\/www.youtube.com\/c\/AlisamTechnology", "-oO  Coded by trhacknon   Oo-");
   my @LOGO=("
     $c[4]     /\\ ___ /\\ 
     $c[4]    (  o   o  )             $c[10]$ESLOGAN[rand @ESLOGAN]
